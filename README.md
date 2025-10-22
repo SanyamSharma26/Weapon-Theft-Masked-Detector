@@ -63,5 +63,3 @@ Typical outputs that can be integrated into a larger system:
 - **Responsible use:** Use detection results as indicators requiring human verification rather than as sole evidence of wrongdoing
 
 ---
-
-**End of Report**
