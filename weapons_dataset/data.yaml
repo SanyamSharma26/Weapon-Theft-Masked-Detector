@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ['AntRevolver', 'AntRifle', 'FPistol', 'FRifle', 'Fknife', 'MacGun', 'Pistol', 'Revolver', 'Rifle', 'RifleTel', 'Uzzy', 'knife']
+
+roboflow:
+  workspace: joe-nassar-7x0f1
+  project: weapons-9k3yv
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/joe-nassar-7x0f1/weapons-9k3yv/dataset/8
